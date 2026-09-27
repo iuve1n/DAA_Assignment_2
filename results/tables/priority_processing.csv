@@ -1,0 +1,9 @@
+operation,n,average_time_ns,element_comparisons,theoretical_complexity
+insert,100,18016.80,206,O(n*log(n))
+extractMin,100,48666.40,863,Theta(n*log(n))
+insert,1000,50508.20,2326,O(n*log(n))
+extractMin,1000,113850.20,14996,Theta(n*log(n))
+insert,10000,409758.40,22753,O(n*log(n))
+extractMin,10000,810175.20,216531,Theta(n*log(n))
+insert,100000,1867633.60,227857,O(n*log(n))
+extractMin,100000,8430508.40,2831426,Theta(n*log(n))

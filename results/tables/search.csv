@@ -1,0 +1,9 @@
+structure,n,average_time_ns,element_comparisons,theoretical_complexity
+Dynamic Array,100,237433.40,79905,O(m*n)
+Linked List,100,246925.20,79905,O(m*n)
+Dynamic Array,1000,638308.20,764533,O(m*n)
+Linked List,1000,1383299.80,764533,O(m*n)
+Dynamic Array,10000,1789691.80,7795097,O(m*n)
+Linked List,10000,13369933.20,7795097,O(m*n)
+Dynamic Array,100000,17805366.80,78291372,O(m*n)
+Linked List,100000,135255091.80,78291372,O(m*n)

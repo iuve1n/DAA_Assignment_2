@@ -1,0 +1,9 @@
+structure,n,average_time_ns,element_accesses,theoretical_complexity
+Dynamic Array,100,240200.00,10000,Theta(m)
+Linked List,100,888075.00,511508,Theta(m*n)
+Dynamic Array,1000,51883.20,10000,Theta(m)
+Linked List,1000,7432508.60,5015208,Theta(m*n)
+Dynamic Array,10000,75608.20,10000,Theta(m)
+Linked List,10000,82383683.40,50139208,Theta(m*n)
+Dynamic Array,100000,28733.40,10000,Theta(m)
+Linked List,100000,827894033.40,502499208,Theta(m*n)
